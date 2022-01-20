@@ -1,15 +1,12 @@
-package com.worldsnas.sliderlibrary
+package com.example.epoxyTask
 
 import android.graphics.Color
 import android.os.Bundle
-import android.view.Menu
-import android.view.MenuItem
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.airbnb.epoxy.EpoxyRecyclerView
-import com.google.android.material.snackbar.Snackbar
-import com.worldsnas.slider.slider
+import com.example.slider.slider
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

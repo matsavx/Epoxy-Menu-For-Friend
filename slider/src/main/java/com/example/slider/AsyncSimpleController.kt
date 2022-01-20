@@ -1,4 +1,4 @@
-package com.worldsnas.slider
+package com.example.slider
 
 import android.os.Handler
 import com.airbnb.epoxy.EpoxyAsyncUtil.MAIN_THREAD_HANDLER

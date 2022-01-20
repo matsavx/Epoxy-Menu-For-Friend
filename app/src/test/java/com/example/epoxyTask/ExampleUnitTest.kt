@@ -1,4 +1,4 @@
-package com.worldsnas.sliderlibrary
+package com.example.epoxyTask
 
 import org.junit.Test
 

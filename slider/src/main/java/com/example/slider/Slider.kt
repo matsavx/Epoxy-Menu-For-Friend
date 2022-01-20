@@ -1,4 +1,4 @@
-package com.worldsnas.slider
+package com.example.slider
 
 import android.content.Context
 import android.graphics.Color
@@ -10,7 +10,7 @@ import androidx.annotation.ColorInt
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.airbnb.epoxy.*
-import com.worldsnas.imageslider.R
+import com.example.imageslider.R
 import ru.tinkoff.scrollingpagerindicator.ScrollingPagerIndicator
 import java.util.*
 import java.util.concurrent.atomic.AtomicInteger

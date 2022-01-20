@@ -1,4 +1,4 @@
-package com.worldsnas.sliderlibrary
+package com.example.epoxyTask
 
 import android.app.Application
 import com.facebook.drawee.backends.pipeline.Fresco

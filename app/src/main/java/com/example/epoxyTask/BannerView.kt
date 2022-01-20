@@ -1,11 +1,11 @@
-package com.worldsnas.sliderlibrary
+package com.example.epoxyTask
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.LinearLayout
 import com.airbnb.epoxy.*
-import com.worldsnas.sliderlibrary.databinding.BannerViewBinding
+import com.example.epoxyTask.databinding.BannerViewBinding
 
 @ModelView(
     autoLayout = ModelView.Size.MATCH_WIDTH_WRAP_HEIGHT,

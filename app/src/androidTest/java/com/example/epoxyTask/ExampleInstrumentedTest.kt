@@ -1,4 +1,4 @@
-package com.worldsnas.sliderlibrary
+package com.example.epoxyTask
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

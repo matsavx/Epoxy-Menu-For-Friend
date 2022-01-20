@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
-    <com.worldsnas.slider.HorizontalCarousel
+    <com.example.slider.HorizontalCarousel
         android:id="@+id/slider_slide_carousel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

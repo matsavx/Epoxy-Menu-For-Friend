@@ -1,4 +1,4 @@
-package com.worldsnas.slider
+package com.example.slider
 
 import android.content.Context
 import android.util.AttributeSet

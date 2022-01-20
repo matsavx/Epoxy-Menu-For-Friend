@@ -1,4 +1,4 @@
-package com.worldsnas.slider
+package com.example.slider
 
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
