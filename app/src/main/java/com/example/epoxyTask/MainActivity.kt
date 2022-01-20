@@ -36,9 +36,6 @@ class MainActivity : AppCompatActivity() {
         list.withModels {
             slider {
                 id("slider")
-
-                cycleDelay(3_000)
-
                 indicatorVisible(true)
                 indicatorSelectedDotColor(Color.YELLOW)
                 indicatorDotColor(Color.BLACK)
